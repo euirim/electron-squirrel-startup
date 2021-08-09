@@ -1,5 +1,5 @@
 {
-  "name": "electron-squirrel-startup",
+  "name": "@euirim/electron-squirrel-startup",
   "version": "1.0.0",
   "description": "Default Squirrel.Windows event handler for your Electron apps.",
   "author": "Lucas Hrabovsky <lucas@mongodb.com> (http://imlucas.com)",
@@ -18,7 +18,7 @@
     "check"
   ],
   "dependencies": {
-    "debug": "^2.2.0"
+    "debug": "~2.2.0"
   },
   "devDependencies": {
     "electron-mocha": "^3.0.5",
